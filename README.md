@@ -20,6 +20,10 @@ Modify line 24 of CMakeLists.txt accordingly to your boost installed path
 https://www.jetbrains.com/help/clion/boost-test-support.html
 This is the reference link to help with boost configuration on Clion ide.
 
-**TO RUN THE TEST** go to cmake-build-debug and type ErrorChecking, prefixed with "./"
+<br>
 
-**TO RUN THE PROGRAM** go to cmake-build-debug and type SDIcwk, prefixed with "./"
+**This program cannot be run from Terminal right after cloning, need an ide (personally used Clion) to open the source code first. After opening the source code from an ide,**
+
+**TO RUN THE TEST From Terminal after using ide to open the source code** go to cmake-build-debug and type ErrorChecking, prefixed with "./"
+
+**TO RUN THE PROGRAM From Terminal after using ide to open the source code** go to cmake-build-debug and type SDIcwk, prefixed with "./"
