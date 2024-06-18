@@ -1,4 +1,4 @@
-# SDIcwk
+# WeatherDataApplication
 
 **Location Management**
 - Add new location
