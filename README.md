@@ -13,7 +13,7 @@ The Weather Data Application is a C++ console program designed to manage locatio
 ### How to Run
 #### Requirements
 • A C++ compiler such as g++ or clang++<br>
-• CMake (optional for build automation)
+• CMake (optional for build automation)<br>
 • BOOST library (for testing)
 
 #### Instructions
